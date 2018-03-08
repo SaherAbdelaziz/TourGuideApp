@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">myTourGuide</string>
+
+    <string name="title1">Cairo</string>
+    <string name="title2">Giza</string>
+    <string name="title3">Alexandria</string>
+    <string name="title4">Sharm El sheikh</string>
+
+    <string name="Cairo"> Cairo Egypt africa</string>
+    <string name="giza_desc"> Giza Egypt africa</string>
+    <string name="Alexandria"> Alex Egypt africa</string>
+    <string name="Sharm_Elsheikh"> Sharm Elsheikh Egypt africa</string>
+
+    <string name="Bibliotheca">Bibliotheca alex</string>
+    <string name="Catacombs">Catacombs of kom hokafa</string>
+    <string name="Montazah">Montazah palace</string>
+    <string name="pompeyes">pompeyes pillar</string>
+    <string name="Qaitbey">Qaitbey Citadel</string>
+    <string name="Ebn">Ebn tulan</string>
+    <string name="AL_azhar">AL_azhar Park</string>
+    <string name="Manial">Manial Palace</string>
+    <string name="Msjed">Msjed Sultan</string>
+    <string name="Tahrir">Tahrir square</string>
+    <string name="Egyptian">Egyptian meuseum</string>
+    <string name="GizaP">Giza plateau</string>
+    <string name="Great">Great sphinx</string>
+    <string name="Pyramids">Pyramids</string>
+    <string name="Pharonic">Pharonic village</string>
+    <string name="alf">alf lyla</string>
+    <string name="Akwa">Akwa park</string>
+    <string name="Safari">Safari</string>
+    <string name="Al_souq">Al_souq El_sha3bi</string>
+    <string name="khaleg">khaleg neama</string>
+    <string name="pram1">param1</string>
+    <string name="action">Action</string>
+
+
+</resources>
